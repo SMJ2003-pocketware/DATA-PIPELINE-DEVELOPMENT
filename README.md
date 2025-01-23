@@ -20,3 +20,5 @@ This task highlights the importance of data pipelines in real-world applications
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/0038b953-2a5c-45da-a41b-806640419b37)
+
+![Image](https://github.com/user-attachments/assets/e027ebd4-eee7-4559-ac25-ad04eed6a364)
